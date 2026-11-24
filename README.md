@@ -8,7 +8,7 @@
     <img alt="Profile Header Banner" src="./assets/banner-light.png" width="100%" />
   </picture>
 
-  <h1>Hi, I'm [Your Name] 👋</h1>
+  <h1>Hi, I'm Aldivo 👋</h1>
   <p>
     <strong>[Your Role / Focus Area, e.g., Embedded Systems &amp; Software Developer]</strong><br />
     Building practical hardware prototypes, backend tools, and clean open-source projects.
